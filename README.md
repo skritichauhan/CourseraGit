@@ -1,1 +1,2 @@
 # CourseraGit
+Editing the readme
